@@ -25,7 +25,7 @@ export default function Featured() {
                             alt={"happy emoji"}
                         />
                         Lower Workload</h3>
-                    <p className="text-gray-400 font-light">Just share one link. We`&apos;`ll handle th rest.</p>
+                    <p className="text-gray-400 font-light">Just share one link. We&apos;ll handle th rest.</p>
                 </div>
                 <div>
                     <h3 className="text-2xl mb-3 flex flex-row justify-center items-center gap-x-1">

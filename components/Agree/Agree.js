@@ -20,7 +20,7 @@ export default function Agree() {
                     className={"object-cover"}
                     alt={"agree"}
                 />
-                <h1 className="w-[80%] md:w-[70%] lg:w-[60%] absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-semibold text-[20px] md:text-[40px]">We`&apos;`ve helped over 1,000 creatorsre
+                <h1 className="w-[80%] md:w-[70%] lg:w-[60%] absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-semibold text-[20px] md:text-[40px]">We&apos;ve helped over 1,000 creatorsre
                     claim control of their audience.</h1>
             </div>
         </div>
