@@ -11,6 +11,7 @@ export default function Featured() {
                             src={"/smile_emoji.svg"}
                             width={"25px"} 
                             height={"25px"}
+                            alt={"smile emoji"}
                         />
                         Reduced Anxiety</h3>
                     <p className="text-gray-400 font-light">Never worry about losing your audience.</p>
@@ -21,6 +22,7 @@ export default function Featured() {
                             src={"/happy_emoji.svg"}
                             width={"25px"} 
                             height={"25px"}
+                            alt={"happy emoji"}
                         />
                         Lower Workload</h3>
                     <p className="text-gray-400 font-light">Just share one link. We'll handle th rest.</p>
@@ -31,6 +33,7 @@ export default function Featured() {
                             src={"/party_emoji.svg"}
                             width={"25px"} 
                             height={"25px"}
+                            alt={"party emoji"}
                         />
                         More Time</h3>
                     <p className="text-gray-400 font-light">Spend less time on marketing tools</p>

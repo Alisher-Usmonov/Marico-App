@@ -15,6 +15,7 @@ export default function StepTwo() {
                             src={"/mobile.png"}
                             width={"450px"}
                             height={"170px"}
+                            alt={"step two"}
                         />
 
                     </div>

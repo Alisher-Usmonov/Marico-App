@@ -26,6 +26,7 @@ export default function StepOne() {
                             src={"/image1.png"}
                             width={1000}
                             height={790}
+                            alt={"step one"}
                         />
                     </div>
                     <div className="w-[200px] h-[150px] md:w-[150px] md:h-[100px] bg-[#8B8B8B] absolute lg:bottom-12 lg:right-20 md:bottom-[220px] md:right-[10px] bottom-[150px] right-[55px]"></div>

@@ -9,6 +9,7 @@ export default function Agree() {
                     src={"/image3.png"}
                     width={"1200px"}
                     height={"340px"}
+                    alt={"agree"}
                 />
             </div>
             <div className="w-full h-[350px] md:h-[300px] relative">
@@ -17,6 +18,7 @@ export default function Agree() {
                     width={"1280px"}
                     height={"900px"}
                     className={"object-cover"}
+                    alt={"agree"}
                 />
                 <h1 className="w-[80%] md:w-[70%] lg:w-[60%] absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-semibold text-[20px] md:text-[40px]">We've helped over 1,000 creatorsre
                     claim control of their audience.</h1>

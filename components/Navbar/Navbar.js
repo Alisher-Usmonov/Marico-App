@@ -27,6 +27,7 @@ const Navbar = () => {
                             src={"/images/logo.svg"}
                             width={"196px"}
                             height={"56px"}
+                            alt={"logo"}
                             loading="eager" />
                     </a>
                 </Link>

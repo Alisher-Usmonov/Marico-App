@@ -23,6 +23,7 @@ export default function Footer() {
                             src={"/logo.png"}
                             width={"40px"}
                             height={"40px"}
+                            alt={"footer"}
                         />
                         <h3 className="font-semibold text-white text-[30px] relative -bottom-2">Marico</h3>
                     </div>
