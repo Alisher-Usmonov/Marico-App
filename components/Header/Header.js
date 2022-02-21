@@ -7,7 +7,7 @@ const Header = () => {
             <section className="w-full h-[545px] flex flex-col justify-between py-6 md:py-8">
                 <div className="w-full p-2 flex flex-col justify-center items-center text-center mt-10">
                     <h1 className="text-white font-bold md:tracking-wide text-[33px] md:text-[60px] leading-none">Own your audience.</h1>
-                    <h1 className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-yellow-400 font-bold md:tracking-wide text-[33px] md:text-[60px]">So you don't lose them.</h1>
+                    <h1 className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-yellow-400 font-bold md:tracking-wide text-[33px] md:text-[60px]">So you don`&apos;`t lose them.</h1>
                 </div>
                 <div className="w-full flex flex-col items-center justify-center text-center">
                     <p className="text-xl font-normal text-white w-[80%] md:w-1/2 lg:w-1/4 mb-6">

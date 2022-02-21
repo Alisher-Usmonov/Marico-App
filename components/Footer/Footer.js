@@ -8,6 +8,7 @@ export default function Footer() {
                     src={"/logo.png"}
                     width={"140px"}
                     height={"120px"}
+                    alt={"footer logo"}
                 />
                 <h1 className="text-white text-[30px] md:text-[40px] font-semibold mt-3 mb-0">Get Started Now</h1>
                 <p className="text-white font-light text-[18px] md:text-[25px] mb-3">Setup is easy and takes under 5 minutes.</p>
